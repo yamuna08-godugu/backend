@@ -25,6 +25,7 @@ Follow these steps to set up the backend locally:
 1. Clone the repository:
 
    ```bash
+   https://github.com/yamuna08-godugu/backend.git
    
 Navigate to the backend directory:
 
